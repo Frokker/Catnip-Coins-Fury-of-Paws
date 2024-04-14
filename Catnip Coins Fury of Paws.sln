@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Catnip Coins Fury of Paws", "Catnip Coins Fury of Paws\Catnip Coins Fury of Paws.csproj", "{9669A11B-2FB1-407B-914C-1D84F90CACE6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9669A11B-2FB1-407B-914C-1D84F90CACE6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9669A11B-2FB1-407B-914C-1D84F90CACE6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9669A11B-2FB1-407B-914C-1D84F90CACE6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9669A11B-2FB1-407B-914C-1D84F90CACE6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
